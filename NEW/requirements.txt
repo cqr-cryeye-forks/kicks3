@@ -1,0 +1,6 @@
+boto3==1.40.2
+colorama==0.4.6
+requests==2.32.4
+kickdomain==1.4
+dnspython==2.7.0
+censys==2.1.9
